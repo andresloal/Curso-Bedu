@@ -1,0 +1,16 @@
+.Cuerpo {
+	background-color: lightblue;
+}
+
+.Cabecera {
+	color: #46484c;
+}
+
+#Texto1 {
+	color: darkgrey;
+}
+
+#ButtonEnviar {
+	color: #fff;
+	background-color: #025157;
+}
